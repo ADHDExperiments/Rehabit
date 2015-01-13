@@ -1,4 +1,15 @@
-## Definition Inspired by Scientific Method
+## How to propose changes (ie. "pull requests") to a document
+1. Create a new account or login to your existing one (buttons for each are in upper right corner of the page).
+2. Click on the file you want to change.
+3. Click the pencil icon to the right of the Raw/Blame/History buttons near the top of the document.
+4. Make your changes and leave a good description of why you think it's important.
+5. Your pull request will be discussed, improved, and approved/denied.
+
+## How to create a new file
+1. Create a new account or login to your existing one (buttons for each are in upper right corner of the page).
+2. Click on the + that's next to the repository name ("Experiment/+") or use this link: https://github.com/ADHDExperiment/Experiment/new/master
+
+## Scientific-Method-Inspired Overview
 
 #### Observations
 1. Several types of therapy (most notably CBT, CPT, ACT, and DBT) have been beneficial for treating different issues in adults that stem ADHD. Life coaching, support groups, dietary changes, meditation, and exercise are also resulted in improved management of ADHD in adults. 
