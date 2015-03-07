@@ -29,7 +29,7 @@
 1. There are ADHD adults who are barely managing their condition, if at all. If they had a sufficient support system and the financial resources to seek independently provided therapies, their ADHD would be adequately managed. Since their condition is effectively unmanaged, they lack both support and finances. They may qualify for social programs provided by the US government (SSDI, SSI, Medicaid, Medicare), but the programs arent designed with ADHD in mind and so have a lengthy application process involving tens of pages of paperwork thats spread across months or years before being approved for coverage. The general implication here is that the market value of adults with unmanaged ADHD, from a business perspective, is effectively zero.
 2. An in-home treatment plan thats modeled after the reSTART program, but designed for ADHD adults, can teach an adult with unmanaged ADHD how to manage their condition and will cost at most 25% of reSTARTs program for the same length of time. 
     - The minimum requirements for a proper treatment plan are:
-		- health insurance
+		1. health insurance
 		- an initial period of time (est. 3 months) that involves abstaining from recurring undesired habits and limited exposure to society that ends when the patient has progressed to a certain point TBD
 		- a secondary period of time (est. 6 months) that involves a reintroduction into society, as well as seeking employment if patient is unemployed
 		- an ADHD specialist who works with the patient, caregiver, and patients family to plan and oversee the patients program
