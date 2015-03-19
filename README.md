@@ -11,8 +11,6 @@
 4. Make your changes and leave a good description of why you think it's important.
 5. Your pull request will be discussed, improved, and approved/denied.
 
-## test
-
 ## How to create a new file
 1. Create a new account or login to your existing one (buttons for each are in upper right corner of the page).
 2. Click on the + that's next to the repository name ("Experiment/+") or use this link: https://github.com/ADHDExperiment/Experiment/new/master
