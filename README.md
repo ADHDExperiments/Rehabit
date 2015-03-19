@@ -1,3 +1,9 @@
+## Quick guide to contributing
+1. Create a new Github account or login to your existing one
+2. Go to http://prose.io/#ADHDExperiments/Rehabit
+3. Make your changes and click the save icon (or press Ctrl-s)
+4. Describe your changes and submit the change request
+
 ## How to propose changes (ie. "pull requests") to a document
 1. Create a new account or login to your existing one (buttons for each are in upper right corner of the page).
 2. Click on the file you want to change.
